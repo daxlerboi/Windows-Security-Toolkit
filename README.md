@@ -556,7 +556,7 @@ Planned features:
 Add your screenshot here:
 
 ```markdown
-![Dashboard Screenshot](assets/dashboard_screenshot.png)
+![Dashboard Screenshot](ML-Monitor/assets/dashboard_screenshot.png)
 ```
 
 ---
