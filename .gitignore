@@ -1,0 +1,30 @@
+Virtual Environment
+
+venv/
+
+Python Cache
+
+pycache/
+*.pyc
+
+ML Generated Files
+
+ML-Monitor/ml/*.pkl
+
+Runtime Data
+
+ML-Monitor/data/baseline/.csv
+ML-Monitor/data/alerts/.log
+
+Environment Variables
+
+.env
+
+VSCode Settings
+
+.vscode/
+
+OS Junk
+
+Thumbs.db
+.DS_Store

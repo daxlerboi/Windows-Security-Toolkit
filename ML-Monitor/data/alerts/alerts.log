@@ -1,0 +1,112 @@
+[2026-05-20 01:36:48.383345] Suspicious Process | System Idle Process | PID=0 | Risk=3
+[2026-05-20 01:36:48.418205] Suspicious Process | CodeSetup-stable-0958016b2af9f09bb4257e0df4a95e2f90590f9f.exe | PID=420 | Risk=10
+[2026-05-20 01:36:48.427368] Suspicious Process | chrome.exe | PID=644 | Risk=0
+[2026-05-20 01:36:48.444286] Suspicious Process | chrome.exe | PID=952 | Risk=0
+[2026-05-20 01:36:49.472823] Suspicious Process | Telegram.exe | PID=7632 | Risk=10
+[2026-05-20 01:36:49.802191] Suspicious Process | NisSrv.exe | PID=11932 | Risk=5
+[2026-05-20 01:36:49.843513] Suspicious Process | Code.exe | PID=12308 | Risk=0
+[2026-05-20 01:36:49.901903] Suspicious Process | python.exe | PID=12676 | Risk=5
+[2026-05-20 01:36:50.166400] Suspicious Process | MpDefenderCoreService.exe | PID=16456 | Risk=5
+[2026-05-20 01:36:50.321476] Suspicious Process | chrome.exe | PID=18776 | Risk=0
+[2026-05-20 01:36:50.346987] Suspicious Process | MsMpEng.exe | PID=18912 | Risk=5
+[2026-05-20 01:36:50.519882] Suspicious Process | CodeSetup-stable-0958016b2af9f09bb4257e0df4a95e2f90590f9f.tmp | PID=22548 | Risk=10
+[2026-05-20 01:36:50.579628] Persistence Detected | utweb | Risk=10
+[2026-05-20 01:36:50.580462] Persistence Detected | Teams | Risk=5
+[2026-05-20 01:36:50.580985] Persistence Detected | electron.app.Notion | Risk=5
+[2026-05-20 01:36:50.581440] Persistence Detected | Avast Browser | Risk=5
+[2026-05-20 01:36:50.581822] Persistence Detected | Discord | Risk=5
+[2026-05-20 01:36:50.582257] Persistence Detected | desktop.ini | Risk=10
+[2026-05-20 01:36:50.582664] Persistence Detected | Send to OneNote.lnk | Risk=10
+[2026-05-20 01:37:10.841579] Suspicious Process | System Idle Process | PID=0 | Risk=3
+[2026-05-20 01:37:10.875379] Suspicious Process | CodeSetup-stable-0958016b2af9f09bb4257e0df4a95e2f90590f9f.exe | PID=420 | Risk=10
+[2026-05-20 01:37:10.884251] Suspicious Process | chrome.exe | PID=644 | Risk=0
+[2026-05-20 01:37:10.901608] Suspicious Process | chrome.exe | PID=952 | Risk=0
+[2026-05-20 01:37:12.061198] Suspicious Process | Telegram.exe | PID=7632 | Risk=10
+[2026-05-20 01:37:12.383826] Suspicious Process | NisSrv.exe | PID=11932 | Risk=5
+[2026-05-20 01:37:12.424439] Suspicious Process | Code.exe | PID=12308 | Risk=0
+[2026-05-20 01:37:12.485446] Suspicious Process | python.exe | PID=12676 | Risk=5
+[2026-05-20 01:37:12.740473] Suspicious Process | MpDefenderCoreService.exe | PID=16456 | Risk=5
+[2026-05-20 01:37:12.884870] Suspicious Process | chrome.exe | PID=18776 | Risk=0
+[2026-05-20 01:37:12.910267] Suspicious Process | MsMpEng.exe | PID=18912 | Risk=5
+[2026-05-20 01:37:13.069163] Suspicious Process | CodeSetup-stable-0958016b2af9f09bb4257e0df4a95e2f90590f9f.tmp | PID=22548 | Risk=10
+[2026-05-20 01:37:13.130221] Persistence Detected | utweb | Risk=10
+[2026-05-20 01:37:13.130969] Persistence Detected | Teams | Risk=5
+[2026-05-20 01:37:13.131451] Persistence Detected | electron.app.Notion | Risk=5
+[2026-05-20 01:37:13.131865] Persistence Detected | Avast Browser | Risk=5
+[2026-05-20 01:37:13.132261] Persistence Detected | Discord | Risk=5
+[2026-05-20 01:37:13.132688] Persistence Detected | desktop.ini | Risk=10
+[2026-05-20 01:37:13.133053] Persistence Detected | Send to OneNote.lnk | Risk=10
+[2026-05-20 01:37:33.618761] Suspicious Process | System Idle Process | PID=0 | Risk=3
+[2026-05-20 01:37:33.647051] Suspicious Process | CodeSetup-stable-0958016b2af9f09bb4257e0df4a95e2f90590f9f.exe | PID=420 | Risk=10
+[2026-05-20 01:37:33.654590] Suspicious Process | chrome.exe | PID=644 | Risk=0
+[2026-05-20 01:37:33.669642] Suspicious Process | chrome.exe | PID=952 | Risk=0
+[2026-05-20 01:37:34.561018] Suspicious Process | explorer.exe | PID=7424 | Risk=0
+[2026-05-20 01:37:34.585170] Suspicious Process | Telegram.exe | PID=7632 | Risk=10
+[2026-05-20 01:37:34.717354] Suspicious Process | SetupHost.exe | PID=9300 | Risk=3
+[2026-05-20 01:37:34.907342] Suspicious Process | NisSrv.exe | PID=11932 | Risk=5
+[2026-05-20 01:37:34.946437] Suspicious Process | Code.exe | PID=12308 | Risk=0
+[2026-05-20 01:37:35.003459] Suspicious Process | python.exe | PID=12676 | Risk=5
+[2026-05-20 01:37:35.248073] Suspicious Process | MpDefenderCoreService.exe | PID=16456 | Risk=5
+[2026-05-20 01:37:35.391672] Suspicious Process | chrome.exe | PID=18776 | Risk=0
+[2026-05-20 01:37:35.416077] Suspicious Process | MsMpEng.exe | PID=18912 | Risk=5
+[2026-05-20 01:37:35.580573] Suspicious Process | CodeSetup-stable-0958016b2af9f09bb4257e0df4a95e2f90590f9f.tmp | PID=22548 | Risk=10
+[2026-05-20 01:37:35.635829] Persistence Detected | utweb | Risk=10
+[2026-05-20 01:37:35.636359] Persistence Detected | Teams | Risk=5
+[2026-05-20 01:37:35.636822] Persistence Detected | electron.app.Notion | Risk=5
+[2026-05-20 01:37:35.637426] Persistence Detected | Avast Browser | Risk=5
+[2026-05-20 01:37:35.637862] Persistence Detected | Discord | Risk=5
+[2026-05-20 01:37:35.638258] Persistence Detected | desktop.ini | Risk=10
+[2026-05-20 01:37:35.638661] Persistence Detected | Send to OneNote.lnk | Risk=10
+[2026-05-20 01:37:56.550967] Suspicious Process | System Idle Process | PID=0 | Risk=3
+[2026-05-20 01:37:56.606694] Suspicious Process | CodeSetup-stable-0958016b2af9f09bb4257e0df4a95e2f90590f9f.exe | PID=420 | Risk=10
+[2026-05-20 01:37:56.621988] Suspicious Process | chrome.exe | PID=644 | Risk=0
+[2026-05-20 01:37:56.651317] Suspicious Process | chrome.exe | PID=952 | Risk=0
+[2026-05-20 01:37:58.468763] Suspicious Process | Telegram.exe | PID=7632 | Risk=10
+[2026-05-20 01:37:59.048395] Suspicious Process | NisSrv.exe | PID=11932 | Risk=5
+[2026-05-20 01:37:59.228150] Suspicious Process | python.exe | PID=12676 | Risk=5
+[2026-05-20 01:37:59.640078] Suspicious Process | MpDefenderCoreService.exe | PID=16456 | Risk=5
+[2026-05-20 01:37:59.814016] Suspicious Process | chrome.exe | PID=18776 | Risk=0
+[2026-05-20 01:37:59.840965] Suspicious Process | MsMpEng.exe | PID=18912 | Risk=5
+[2026-05-20 01:38:00.020985] Suspicious Process | CodeSetup-stable-0958016b2af9f09bb4257e0df4a95e2f90590f9f.tmp | PID=22548 | Risk=10
+[2026-05-20 01:38:00.113778] Persistence Detected | utweb | Risk=10
+[2026-05-20 01:38:00.114376] Persistence Detected | Teams | Risk=5
+[2026-05-20 01:38:00.114853] Persistence Detected | electron.app.Notion | Risk=5
+[2026-05-20 01:38:00.115293] Persistence Detected | Avast Browser | Risk=5
+[2026-05-20 01:38:00.115721] Persistence Detected | Discord | Risk=5
+[2026-05-20 01:38:00.116284] Persistence Detected | desktop.ini | Risk=10
+[2026-05-20 01:38:00.116709] Persistence Detected | Send to OneNote.lnk | Risk=10
+[2026-05-20 01:38:21.272280] Suspicious Process | System Idle Process | PID=0 | Risk=3
+[2026-05-20 01:38:21.322563] Suspicious Process | CodeSetup-stable-0958016b2af9f09bb4257e0df4a95e2f90590f9f.exe | PID=420 | Risk=10
+[2026-05-20 01:38:21.332357] Suspicious Process | chrome.exe | PID=644 | Risk=0
+[2026-05-20 01:38:23.186559] Suspicious Process | Telegram.exe | PID=7632 | Risk=10
+[2026-05-20 01:38:23.761073] Suspicious Process | NisSrv.exe | PID=11932 | Risk=5
+[2026-05-20 01:38:23.924438] Suspicious Process | python.exe | PID=12676 | Risk=5
+[2026-05-20 01:38:24.291889] Suspicious Process | MpDefenderCoreService.exe | PID=16456 | Risk=5
+[2026-05-20 01:38:24.509083] Suspicious Process | chrome.exe | PID=18776 | Risk=0
+[2026-05-20 01:38:24.549244] Suspicious Process | MsMpEng.exe | PID=18912 | Risk=5
+[2026-05-20 01:38:24.813450] Suspicious Process | CodeSetup-stable-0958016b2af9f09bb4257e0df4a95e2f90590f9f.tmp | PID=22548 | Risk=10
+[2026-05-20 01:38:24.984643] Persistence Detected | utweb | Risk=10
+[2026-05-20 01:38:24.985551] Persistence Detected | Teams | Risk=5
+[2026-05-20 01:38:24.986251] Persistence Detected | electron.app.Notion | Risk=5
+[2026-05-20 01:38:24.986797] Persistence Detected | Avast Browser | Risk=5
+[2026-05-20 01:38:24.987283] Persistence Detected | Discord | Risk=5
+[2026-05-20 01:38:24.987837] Persistence Detected | desktop.ini | Risk=10
+[2026-05-20 01:38:24.988413] Persistence Detected | Send to OneNote.lnk | Risk=10
+[2026-05-20 01:38:46.234727] Suspicious Process | System Idle Process | PID=0 | Risk=3
+[2026-05-20 01:38:46.276058] Suspicious Process | CodeSetup-stable-0958016b2af9f09bb4257e0df4a95e2f90590f9f.exe | PID=420 | Risk=10
+[2026-05-20 01:38:46.287316] Suspicious Process | chrome.exe | PID=644 | Risk=3
+[2026-05-20 01:38:47.780684] Suspicious Process | Telegram.exe | PID=7632 | Risk=10
+[2026-05-20 01:38:48.012981] Suspicious Process | SetupHost.exe | PID=9300 | Risk=3
+[2026-05-20 01:38:48.346508] Suspicious Process | NisSrv.exe | PID=11932 | Risk=5
+[2026-05-20 01:38:48.526274] Suspicious Process | python.exe | PID=12676 | Risk=5
+[2026-05-20 01:38:48.990732] Suspicious Process | MpDefenderCoreService.exe | PID=16456 | Risk=5
+[2026-05-20 01:38:49.260347] Suspicious Process | chrome.exe | PID=18776 | Risk=0
+[2026-05-20 01:38:49.306680] Suspicious Process | MsMpEng.exe | PID=18912 | Risk=5
+[2026-05-20 01:38:49.583157] Suspicious Process | CodeSetup-stable-0958016b2af9f09bb4257e0df4a95e2f90590f9f.tmp | PID=22548 | Risk=10
+[2026-05-20 01:38:49.739924] Persistence Detected | utweb | Risk=10
+[2026-05-20 01:38:49.740677] Persistence Detected | Teams | Risk=5
+[2026-05-20 01:38:49.741636] Persistence Detected | electron.app.Notion | Risk=5
+[2026-05-20 01:38:49.742219] Persistence Detected | Avast Browser | Risk=5
+[2026-05-20 01:38:49.742998] Persistence Detected | Discord | Risk=5
+[2026-05-20 01:38:49.743691] Persistence Detected | desktop.ini | Risk=10
+[2026-05-20 01:38:49.744206] Persistence Detected | Send to OneNote.lnk | Risk=10
