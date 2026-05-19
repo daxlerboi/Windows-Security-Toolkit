@@ -129,7 +129,7 @@ Windows Security Toolkit/
 │   └── requirements.txt
 │
 ├── assets/
-│   └── dashboard_screenshot.png (to be added)
+│   └── dashboard_screenshot.png 
 │
 ├── Batch Tools/
 │   └── (batch processing utilities)
