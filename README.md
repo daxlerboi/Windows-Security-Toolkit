@@ -86,11 +86,14 @@ Windows Security Toolkit/
 │
 ├── ML-Monitor/
 │   ├── collector/
+│   │   ├── __init__.py
 │   │   ├── process_collector.py
 │   │   ├── persistence_collector.py
-│   │   └── network_collector.py
+│   │   ├── network_collector.py
+│   │   └── __pycache__/
 │   │
 │   ├── dashboard/
+│   │   ├── __init__.py
 │   │   └── live_dashboard.py
 │   │
 │   ├── data/
@@ -101,25 +104,44 @@ Windows Security Toolkit/
 │   │       └── alerts.log
 │   │
 │   ├── ml/
+│   │   ├── __init__.py
 │   │   ├── train_model.py
 │   │   ├── detect.py
 │   │   ├── anomaly_model.pkl
-│   │   └── scaler.pkl
+│   │   ├── scaler.pkl
+│   │   └── __pycache__/
 │   │
 │   ├── rules/
-│   │   └── heuristic_engine.py
+│   │   ├── __init__.py
+│   │   ├── heuristic_engine.py
+│   │   ├── suspicious_paths.py
+│   │   └── __pycache__/
 │   │
 │   ├── utils/
+│   │   ├── __init__.py
 │   │   ├── feature_extractor.py
+│   │   ├── hash_utils.py
 │   │   ├── logger.py
-│   │   └── hash_utils.py
+│   │   └── __pycache__/
 │   │
 │   ├── collect_baseline.py
 │   ├── monitor.py
 │   └── requirements.txt
 │
+├── assets/
+│   └── dashboard_screenshot.png (to be added)
+│
+├── Batch Tools/
+│   └── (batch processing utilities)
+│
+├── .git/
+│
+├── .gitignore
+├── LICENSE
+├── README.md
 ├── logs/
-└── comments-backup/
+├── comments-backup/
+└── venv/ (Python virtual environment)
 ```
 
 ---
@@ -558,6 +580,8 @@ Add your screenshot here:
 ```markdown
 ![Dashboard Screenshot](ML-Monitor/assets/dashboard_screenshot.png)
 ```
+
+Once you've uploaded your dashboard screenshot to the `assets/` folder, it will display automatically.
 
 ---
 
