@@ -174,7 +174,7 @@ pip install -r ML-Monitor/requirements.txt
 ## Clone Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/daxlerboi/Windows-Security-Toolkit
 ```
 
 ---
