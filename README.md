@@ -573,15 +573,6 @@ Planned features:
 
 ---
 
-# Dashboard Screenshot
-
-Add your screenshot here:
-
-```markdown
-![Dashboard Screenshot](assets/dashboard_screenshot.png)
-```
----
-
 # Contribution
 
 Contributions and improvements are welcome.
