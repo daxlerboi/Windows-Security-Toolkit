@@ -1,6 +1,6 @@
 @echo off
 setlocal EnableDelayedExpansion
-title Windows Security Toolkit v5.2 (Intelligence Edition)
+title Windows Security Toolkit
 color 0A
 
 :: ===============================
