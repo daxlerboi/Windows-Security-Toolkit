@@ -579,10 +579,7 @@ Add your screenshot here:
 
 ```markdown
 ![Dashboard Screenshot](assets/dashboard_screenshot.png)
-```
-
-Once you've uploaded your dashboard screenshot to the `assets/` folder, it will display automatically.
-
+```
 ---
 
 # Contribution
