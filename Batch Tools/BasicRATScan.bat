@@ -1,6 +1,6 @@
 @echo off
 setlocal EnableDelayedExpansion
-title RAT Detection & Network Analyzer (v5 - Stable Fixed)
+title RAT Detection & Network Analyzer 
 color 0A
 
 :: =========================
