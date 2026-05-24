@@ -1,5 +1,11 @@
 # Windows Security Toolkit
 
+[![Windows](https://img.shields.io/badge/Windows-supported-0078D4?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![Python](https://img.shields.io/badge/Python-used-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Batch](https://img.shields.io/badge/Batch-tools-222222)](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)
+[![Streamlit](https://img.shields.io/badge/Streamlit-dashboard-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![scikit--learn](https://img.shields.io/badge/scikit--learn-used-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+
 Developer: `daxler_boi`
 
 A hybrid Windows security and monitoring toolkit combining:
@@ -12,7 +18,7 @@ A hybrid Windows security and monitoring toolkit combining:
 
 ---
 
-# Overview
+## Overview
 
 Windows Security Toolkit is designed to monitor and analyze Windows systems using both traditional detection logic and machine learning-based behavioral analysis.
 
@@ -27,11 +33,11 @@ The project combines:
 
 ---
 
-# Features
+## Features
 
-## Batch Security Tools
+### Batch Security Tools
 
-### `SecurityTool.bat`
+#### `SecurityTool.bat`
 
 Menu-driven Windows security utility.
 
@@ -47,7 +53,7 @@ Features:
 
 ---
 
-### `BasicRATScan.bat`
+#### `BasicRATScan.bat`
 
 Focused RAT and suspicious activity scanner.
 
@@ -61,7 +67,7 @@ Features:
 
 ---
 
-# Machine Learning Monitor
+## Machine Learning Monitor
 
 The `ML-Monitor/` project provides:
 
@@ -76,7 +82,7 @@ The `ML-Monitor/` project provides:
 
 ---
 
-# Folder Structure
+## Folder Structure
 
 ```text
 Windows Security Toolkit/
@@ -129,7 +135,7 @@ Windows Security Toolkit/
 │   └── requirements.txt
 │
 ├── assets/
-│   └── dashboard_screenshot.png 
+│   └── dashboard_screenshot.png
 │
 ├── Batch Tools/
 │   └── (batch processing utilities)
@@ -146,7 +152,7 @@ Windows Security Toolkit/
 
 ---
 
-# Requirements
+## Requirements
 
 Install dependencies:
 
@@ -156,7 +162,7 @@ pip install -r ML-Monitor/requirements.txt
 
 ---
 
-# Python Libraries Used
+## Python Libraries Used
 
 * psutil
 * pandas
@@ -169,9 +175,9 @@ pip install -r ML-Monitor/requirements.txt
 
 ---
 
-# Installation
+## Installation
 
-## Clone Repository
+### Clone Repository
 
 ```bash
 git clone https://github.com/daxlerboi/Windows-Security-Toolkit
@@ -179,7 +185,7 @@ git clone https://github.com/daxlerboi/Windows-Security-Toolkit
 
 ---
 
-## Enter Project Directory
+### Enter Project Directory
 
 ```bash
 cd "Windows Security Toolkit"
@@ -187,7 +193,7 @@ cd "Windows Security Toolkit"
 
 ---
 
-## Create Virtual Environment
+### Create Virtual Environment
 
 ```bash
 python -m venv venv
@@ -195,15 +201,15 @@ python -m venv venv
 
 ---
 
-## Activate Virtual Environment
+### Activate Virtual Environment
 
-### CMD
+#### CMD
 
 ```cmd
 venv\Scripts\activate
 ```
 
-### PowerShell
+#### PowerShell
 
 ```powershell
 .\venv\Scripts\Activate.ps1
@@ -211,7 +217,7 @@ venv\Scripts\activate
 
 ---
 
-## Install Dependencies
+### Install Dependencies
 
 ```bash
 pip install -r ML-Monitor/requirements.txt
@@ -219,9 +225,9 @@ pip install -r ML-Monitor/requirements.txt
 
 ---
 
-# Full Execution Flow
+## Full Execution Flow
 
-# Step 1 — Enter ML Monitor
+## Step 1 — Enter ML Monitor
 
 ```bash
 cd ML-Monitor
@@ -229,7 +235,7 @@ cd ML-Monitor
 
 ---
 
-# Step 2 — Collect Baseline Data
+## Step 2 — Collect Baseline Data
 
 ```bash
 python collect_baseline.py
@@ -253,7 +259,7 @@ Recommended during collection:
 
 ---
 
-# Step 3 — Train Machine Learning Model
+## Step 3 — Train Machine Learning Model
 
 ```bash
 python ml/train_model.py
@@ -274,7 +280,7 @@ The model uses:
 
 ---
 
-# Step 4 — Start Live Monitoring
+## Step 4 — Start Live Monitoring
 
 ```bash
 python monitor.py
@@ -296,7 +302,7 @@ data/alerts/alerts.log
 
 ---
 
-# Step 5 — Launch Dashboard
+## Step 5 — Launch Dashboard
 
 Open another terminal:
 
@@ -318,9 +324,9 @@ http://localhost:8501
 
 ---
 
-# Main Code Components
+## Main Code Components
 
-# Baseline Collector
+## Baseline Collector
 
 File:
 
@@ -350,7 +356,7 @@ for process in processes:
 
 ---
 
-# Feature Extraction
+## Feature Extraction
 
 File:
 
@@ -372,7 +378,7 @@ return {
 
 ---
 
-# Model Training
+## Model Training
 
 File:
 
@@ -405,7 +411,7 @@ This trains the anomaly detection model.
 
 ---
 
-# Live Detection
+## Live Detection
 
 File:
 
@@ -429,7 +435,7 @@ prediction = model.predict(X_scaled)
 
 ---
 
-# Heuristic Risk Engine
+## Heuristic Risk Engine
 
 File:
 
@@ -456,7 +462,7 @@ if memory > 30:
 
 ---
 
-# Live Monitoring Engine
+## Live Monitoring Engine
 
 File:
 
@@ -496,7 +502,7 @@ This combines:
 
 ---
 
-# Dashboard
+## Dashboard
 
 File:
 
@@ -520,11 +526,11 @@ Dashboard includes:
 
 ---
 
-# Detection Logic
+## Detection Logic
 
 The toolkit combines two detection systems.
 
-## Machine Learning Detection
+### Machine Learning Detection
 
 Isolation Forest detects unusual process behavior patterns.
 
@@ -536,7 +542,7 @@ Examples:
 
 ---
 
-## Heuristic Detection
+### Heuristic Detection
 
 Rule-based logic detects:
 
@@ -547,7 +553,7 @@ Rule-based logic detects:
 
 ---
 
-# Future Improvements
+## Future Improvements
 
 Planned features:
 
@@ -563,7 +569,7 @@ Planned features:
 
 ---
 
-# Notes
+## Notes
 
 * Designed primarily for Windows systems
 * Some scans may require administrator privileges
@@ -573,7 +579,7 @@ Planned features:
 
 ---
 
-# Contribution
+## Contribution
 
 Contributions and improvements are welcome.
 
@@ -588,7 +594,7 @@ Potential improvement areas:
 
 ---
 
-# Contact
+## Contact
 
 Developer: `daxler_boi`
 
